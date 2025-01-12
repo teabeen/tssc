@@ -1,0 +1,8 @@
+~ start
+set PlayerGlobal.isFrozen = true
+Jeffrey (you): [[Ah|Oh|Ough]], where am I?
+Jeffrey (you): What happened? I can't remember anything.
+Jeffrey (you): There are two paths. Seems like the one leading westward is blocked
+Jeffrey (you):  Let's go north, maybe we can find someone who can help me
+set PlayerGlobal.isFrozen = false
+=> END

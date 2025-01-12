@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_13"
+type="Resource"
+uid="uid://b6yiqwquxuuca"
+path="res://.godot/imported/georgeQuest.dialogue-67f3aa7fe37dd1d5d485790b8cab6d04.tres"
+
+[deps]
+
+source_file="res://dialogues/georgeQuest.dialogue"
+dest_files=["res://.godot/imported/georgeQuest.dialogue-67f3aa7fe37dd1d5d485790b8cab6d04.tres"]
+
+[params]
+
+defaults=true

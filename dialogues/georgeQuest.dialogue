@@ -1,0 +1,10 @@
+~ start
+set PlayerGlobal.isFrozen = true
+George: [[Oh no!!! | ARGH! | NOOO!]] Please help us!
+Jeffrey (you): What happened?
+George: Chrome's henchmen have stolen the sword of twilight and have raided our village!
+George: Please noble traveler, retrieve it!
+Jeffrey (you): Sir? Where am I-
+George: Please enter the townhall, its the big house to out northeast, you will get the required  tools for your quest
+set PlayerGlobal.isFrozen = false
+=> END
